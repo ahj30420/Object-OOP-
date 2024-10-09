@@ -1,5 +1,6 @@
-package chapter05;
+package chapter05.discountCondition.step01;
 
+import chapter05.Screening;
 import chapter05.discountCondition.step01.DiscountConditionType;
 
 import java.time.DayOfWeek;
