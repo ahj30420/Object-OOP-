@@ -1,4 +1,4 @@
-package chapter05;
+package chapter05.discountCondition.step01;
 
 public enum DiscountConditionType {
     SEQUENCE,

@@ -1,4 +1,4 @@
-package chapter05.discountCondition;
+package chapter05.discountCondition.step02;
 
 import chapter05.Screening;
 

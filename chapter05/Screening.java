@@ -1,5 +1,7 @@
 package chapter05;
 
+import chapter05.movie.step01.Movie;
+
 import java.time.LocalDateTime;
 
 public class Screening {

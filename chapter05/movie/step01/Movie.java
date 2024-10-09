@@ -1,6 +1,9 @@
-package chapter05;
+package chapter05.movie.step01;
 
-import chapter05.discountCondition.DiscountCondition;
+import chapter05.Money;
+import chapter05.MovieType;
+import chapter05.Screening;
+import chapter05.discountCondition.step02.DiscountCondition;
 
 import java.time.Duration;
 import java.util.List;
