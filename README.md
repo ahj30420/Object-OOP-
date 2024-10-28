@@ -11,3 +11,4 @@
 - [Chapter 06: 메시지와 인터페이스](./chapter06/Chapter06.md)
 - [Chapter 07: 객체 분해](./chapter07/Chapter07.md)
 - [Chapter 08: 의존성 관리하기](./chapter08/Chapter08.md)
+- [Chapter 09: 유연한 설계](./chapter09/Chapter09.md)
