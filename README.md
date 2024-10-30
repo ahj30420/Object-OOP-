@@ -12,3 +12,4 @@
 - [Chapter 07: 객체 분해](./chapter07/Chapter07.md)
 - [Chapter 08: 의존성 관리하기](./chapter08/Chapter08.md)
 - [Chapter 09: 유연한 설계](./chapter09/Chapter09.md)
+- [Chapter 10: 상속과 코드 재사용](./chapter10/Chapter10.md)
