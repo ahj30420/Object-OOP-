@@ -15,3 +15,4 @@
 - [Chapter 10: 상속과 코드 재사용](./chapter10/Chapter10.md)
 - [Chapter 11: 합성과 유연한 설계](./chapter11/Chapter11.md)
 - [Chapter 12: 다형성](./chapter12/Chapter12.md)
+- [Chapter 13: 서브클래싱과 서브타이핑](./chapter13/Chapter13.md)
